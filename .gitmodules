@@ -1,0 +1,6 @@
+[submodule "lib/cpp-base64"]
+	path = lib/cpp-base64
+	url = https://github.com/ReneNyffenegger/cpp-base64/
+[submodule "lib/fastpbkdf2"]
+	path = lib/fastpbkdf2
+	url = https://github.com/ctz/fastpbkdf2
